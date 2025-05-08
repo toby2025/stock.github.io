@@ -32,4 +32,8 @@ caption {
     text-align: center;
     color: black;
     font-weight: bold;
-} 
+}
+
+#messageArea{
+    padding: 10px;
+}
